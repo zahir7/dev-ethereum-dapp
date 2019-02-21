@@ -4,6 +4,7 @@
 https://geth.ethereum.org/downloads/
 ```
 paht 설정
+C:\Program Files\Geth
 ```
 
 - Download ganache
