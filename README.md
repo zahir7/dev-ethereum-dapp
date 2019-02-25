@@ -12,3 +12,12 @@ https://truffleframework.com/ganache
 ```
 paht 설정
 ```
+
+* 솔리디티 https://remix.ethereum.org
+
+* CryptoZombies 솔리디티 연습 https://cryptozombies.io/
+
+
+# The Ethernaut by zeppelin
+(https://ethernaut.zeppelin.solutions/)
+시큐어 코딩
